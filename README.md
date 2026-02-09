@@ -197,10 +197,11 @@ Follow the steps below to run the application locally:
    cd app
 
 2. Run the application:
+   ```bash
    python app.py
 
-3. Open a web browser and navigate to the url given in the terminal
-4. Using the Application
+4. Open a web browser and navigate to the url given in the terminal
+5. Using the Application
 
 Enter an English sentence into the input text box
 
@@ -213,3 +214,4 @@ This interface allows easy testing and qualitative evaluation of the trained Eng
 # Web Application Interface
 
 ![Web Page](images/webPage.png)
+
