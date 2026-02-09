@@ -211,7 +211,8 @@ The translated Sinhala sentence will be displayed on the web page
 
 This interface allows easy testing and qualitative evaluation of the trained English → Sinhala translation model.
 
-# Web Application Interface
+### Web Application Interface
 
 ![Web Page](images/webPage.png)
+
 
